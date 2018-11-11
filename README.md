@@ -1,7 +1,7 @@
 # newGitTest
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+<h1> This is header 1
+<h2> This is header 2
+<h6> This is header 6
 
 *This text will be italic*
 _This will also be italic_
