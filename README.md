@@ -11,7 +11,8 @@ __This will also be bold__
 
 _You **can** combine them_
 
-![alt text] (https://github.com/ahmedhasandrlnd/newGitTest/blob/master/ezgif.com-video-to-gif.gif)
+Trained Agent: 
+![alt text] (https://github.com/ahmedhasandrlnd/newGitTest/blob/master/ezgif.com-video-to-gif.gif "Trained agent")
 
 * Item 1
 * Item 2
