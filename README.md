@@ -12,7 +12,7 @@ __This will also be bold__
 _You **can** combine them_
 
 Trained Agent: 
-![alt text] (images/ezgif.com-video-to-gif.gif "Trained agent")
+![alt text] (images/trained.gif "Trained agent")
 
 * Item 1
 * Item 2
