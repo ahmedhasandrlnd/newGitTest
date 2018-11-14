@@ -39,7 +39,6 @@ First Header | Second Header
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
-
-<iframe src="https://giphy.com/embed/fnNyek8TpK1CCyDjzq" width="480" height="326" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fnNyek8TpK1CCyDjzq">via GIPHY</a></p>
+!(https://media.giphy.com/media/fnNyek8TpK1CCyDjzq/200w_d.gif)
 
 ~~**THE END**~~
