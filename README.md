@@ -12,7 +12,7 @@ __This will also be bold__
 _You **can** combine them_
 
 Trained Agent: 
-![alt text] (images/trained.gif "Trained agent")
+![alt text](https://github.com/ahmedhasandrlnd/newGitTest/blob/master/images/trained.gif)
 
 * Item 1
 * Item 2
