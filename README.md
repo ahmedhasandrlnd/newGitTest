@@ -12,7 +12,7 @@ __This will also be bold__
 _You **can** combine them_
 
 Trained Agent: 
-![alt text] (https://github.com/ahmedhasandrlnd/newGitTest/blob/master/ezgif.com-video-to-gif.gif "Trained agent")
+![alt text] (https://github.com/ahmedhasandrlnd/newGitTest/blob/master/images/ezgif.com-video-to-gif.gif "Trained agent")
 
 * Item 1
 * Item 2
