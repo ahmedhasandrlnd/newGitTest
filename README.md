@@ -39,6 +39,6 @@ First Header | Second Header
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
-!(https://media.giphy.com/media/fnNyek8TpK1CCyDjzq/200w_d.gif)
+![alt text] (https://media.giphy.com/media/fnNyek8TpK1CCyDjzq/200w_d.gif)
 
 ~~**THE END**~~
